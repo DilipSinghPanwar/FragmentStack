@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Fragment Stack</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+<!-- Sign IN-->
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="tv_sign_up"><u>Sign Up</u></string>
+    <string name="tv_forget_pass"><u>Forget Password</u></string>
+
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+
+    <!-- Sign Up-->
+    <string name="signup_hint_name">Name</string>
+    <string name="signup_hint_email">Email</string>
+    <string name="signup_hint_phoneno">Phone No</string>
+    <string name="signup_hint_company">Company</string>
+    <string name="signup_hint_password">Password</string>
+    <string name="signup_hint_confirm_password">Confirm Password</string>
+    <string name="signup_btn_sign_up">Sign Up</string>
+
+    <string name="signup_err_msg_name">Enter valid name</string>
+    <string name="signup_err_msg_email">Enter valid email address</string>
+    <string name="signup_err_msg_phoneno">Enter valid phone number</string>
+    <string name="signup_err_msg_company">Enter valid company</string>
+    <string name="signup_err_msg_password">Enter the password</string>
+    <string name="signup_err_msg_conpassword">Enter the match password</string>
+
+    <!--forget password-->
+    <string name="btn_forget_password">Forget Password</string>
+    <string name="forget_pass_hint_email">Enter your Email address</string>
+
+
+
+    <!--my account-->
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="link_upgradeToPrimium">Upgrade to premium ?</string>
+    <string name="etTxtUserType">User Type</string>
+    <string name="btnSave">Save</string>
+
+    <!--edit profile-->
+    <string name="etEditName">Reset Password</string>
+    <string name="etCompanyName">Upgrade to premium ?</string>
+    <string name="etUserType">User Type</string>
+
+    <!--generate post seller-->
+    <string name="etProductName">Product Name</string>
+    <string name="etGradeName">Grade Name</string>
+    <string name="etMFI">MFI</string>
+    <string name="etLocation">Location</string>
+    <string name="etPrice">Price</string>
+    <string name="etCurrency">Currency</string>
+    <string name="etQuality">Quality</string>
+    <string name="etUnit">Unit</string>
+    <string name="txtBuyerContact">Buyer can contact you by:</string>
+    <string name="txtTermsCondition">Terms &amp; Conditions</string>
+    <string name="cbEmail">Email</string>
+    <string name="cbPhone">Phone</string>
+    <string name="btnSubmit">Submit</string>
+
+
+
+</resources>

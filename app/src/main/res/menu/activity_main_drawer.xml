@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Home"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Home" />
+        <item
+            android:id="@+id/Buy"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Buyer" />
+        <item
+            android:id="@+id/Sell"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Seller" />
+        <item
+            android:id="@+id/ViewBuyer"
+            android:icon="@drawable/ic_menu_send"
+            android:title="View Buyer" />
+        <item
+            android:id="@+id/ViewSeller"
+            android:icon="@drawable/ic_menu_send"
+            android:title="View Seller" />
+        <item
+            android:id="@+id/Profile"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Profile" />
+        <item
+            android:id="@+id/MyAccount"
+            android:icon="@drawable/ic_menu_send"
+            android:title="My Account" />
+        <item
+            android:id="@+id/PostSeller"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Post Seller" />
+        <item
+            android:id="@+id/Settings"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Settings" />
+        <item
+            android:id="@+id/TermsConditions"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Terms and Condition" />
+        <item
+            android:id="@+id/SupportContact"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Support and Contact" />
+
+
+    </group>
+</menu>
